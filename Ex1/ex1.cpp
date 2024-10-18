@@ -4,7 +4,7 @@
 #include <array>
 
 using namespace std;
-
+// partie 1
 void saisirNotes(vector<double>& v, int n) {
 	double note;
 	for (int i = 0; i < n; ++i) {
